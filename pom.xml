@@ -16,7 +16,7 @@
         <module>microstamp-service-registry</module>
         <module>microstamp-configuration-server</module>
         <module>microstamp-step1-backend-pagliares</module>
-
+        <module>microstamp-step2-backend-pagliares</module>
     </modules>
 
     <properties>
